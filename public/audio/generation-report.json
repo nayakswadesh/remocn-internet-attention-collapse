@@ -1,0 +1,68 @@
+{
+  "sampleRate": 48000,
+  "durationSeconds": 50,
+  "peaks": {
+    "music": 0.2208150327205658,
+    "impacts": 0.31066247820854187,
+    "transitions": 0.19446511566638947,
+    "texture": 0.030377527698874474,
+    "voice": 0.82
+  },
+  "voiceDurations": [
+    {
+      "id": "hook-linger",
+      "durationFrames": 46,
+      "allottedFrames": 46
+    },
+    {
+      "id": "nyan",
+      "durationFrames": 81,
+      "allottedFrames": 102
+    },
+    {
+      "id": "gangnam",
+      "durationFrames": 71,
+      "allottedFrames": 72
+    },
+    {
+      "id": "harlem-break",
+      "durationFrames": 62,
+      "allottedFrames": 64
+    },
+    {
+      "id": "harlem-window",
+      "durationFrames": 95,
+      "allottedFrames": 112
+    },
+    {
+      "id": "ice-bucket",
+      "durationFrames": 65,
+      "allottedFrames": 65
+    },
+    {
+      "id": "mannequin",
+      "durationFrames": 70,
+      "allottedFrames": 80
+    },
+    {
+      "id": "coffin",
+      "durationFrames": 88,
+      "allottedFrames": 90
+    },
+    {
+      "id": "modern-cycle",
+      "durationFrames": 76,
+      "allottedFrames": 80
+    },
+    {
+      "id": "cycle-sequence",
+      "durationFrames": 129,
+      "allottedFrames": 130
+    },
+    {
+      "id": "nuance",
+      "durationFrames": 135,
+      "allottedFrames": 135
+    }
+  ]
+}

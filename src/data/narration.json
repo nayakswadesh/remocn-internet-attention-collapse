@@ -1,0 +1,13 @@
+[
+  {"id":"hook-linger","startFrame":68,"endFrame":114,"text":"Some moments linger."},
+  {"id":"nyan","startFrame":116,"endFrame":218,"text":"Nyan Cat held search attention for nine months."},
+  {"id":"gangnam","startFrame":218,"endFrame":290,"text":"Gangnam Style held it for about four."},
+  {"id":"harlem-break","startFrame":342,"endFrame":406,"text":"Then Harlem Shake broke the rhythm."},
+  {"id":"harlem-window","startFrame":430,"endFrame":542,"text":"Its search attention window shrank to about two to three weeks."},
+  {"id":"ice-bucket","startFrame":565,"endFrame":630,"text":"Ice Bucket: under a month."},
+  {"id":"mannequin","startFrame":630,"endFrame":710,"text":"Mannequin Challenge: one to two."},
+  {"id":"coffin","startFrame":720,"endFrame":810,"text":"But Coffin Dance kept going, four months."},
+  {"id":"modern-cycle","startFrame":830,"endFrame":910,"text":"The content cycle can turn much faster."},
+  {"id":"cycle-sequence","startFrame":918,"endFrame":1048,"text":"One trend becomes a remix, hits saturation, then gets replaced."},
+  {"id":"nuance","startFrame":1245,"endFrame":1380,"text":"Exceptions matter. But attention can still collapse from months into weeks."}
+]

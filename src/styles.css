@@ -1,0 +1,17 @@
+:root {
+  font-family: 'Inter Variable', Inter, Arial, sans-serif;
+  color: #fafafa;
+  background: #09090b;
+  font-synthesis: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: #09090b;
+}
+
